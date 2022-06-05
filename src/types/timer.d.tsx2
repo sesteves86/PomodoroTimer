@@ -1,0 +1,4 @@
+// interface ITimer {
+//     timePeriod: number,
+//     startNextPeriod: Function
+// }

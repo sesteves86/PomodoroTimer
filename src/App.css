@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App_running {
+  background-color: #822;
 }
 
 .App-logo {
@@ -35,4 +43,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.timerButton {
+  width: 100px;
+  height: 50px;
+  margin: 10px;
 }
